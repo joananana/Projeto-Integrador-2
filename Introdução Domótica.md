@@ -8,7 +8,9 @@
 # O que é Domótica?
 ------
 
-```Domótica vem da palavra “Domus”, significa casa, fazendo junção com a palavra “Robótica”, associado ao ato de realizar ações automáticas. Por isso, tem o objetivo de controlar e automatizar a função dos equipamentos elétricos de forma integrada a um certo sistema central, podendo ser controlado de forma local ou remota.
+```
+
+Domótica vem da palavra “Domus”, significa casa, fazendo junção com a palavra “Robótica”, associado ao ato de realizar ações automáticas. Por isso, tem o objetivo de controlar e automatizar a função dos equipamentos elétricos de forma integrada a um certo sistema central, podendo ser controlado de forma local ou remota.
 Esse conceito vem da necessidade do homem de querer realizar o mínimo de esforço durante atividades corriqueiras. Quando se fala em modernidade fazemos associação com conforto, pois tudo que está ligado à tecnologia basicamente está relacionado à melhoria da vida humana.
 
 
@@ -22,3 +24,5 @@ Ver em tempo real imagens das câmeras de segurança em seu circuito fechado, at
 Controlar e programar a temperatura ambiente
 Programar consumos em horas vagas para diminuir gasto energético
 Interruptores por comando de voz
+
+```

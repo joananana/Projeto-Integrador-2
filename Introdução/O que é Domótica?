@@ -1,28 +1,35 @@
 
-### Projeto Integrador 2
-
-.
-
-.
+⠀⠀⠀⠀⠀⠀⠀
 
 # O que é Domótica?
 ------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-```
+⠀⠀⠀⠀⠀⠀Domótica vem da palavra em francês *Domotique*, termo que junta as palavras *Domus*, que significa casa, com a palavra *Immotique*, que significa automático. Domótica então é associada ao ato de realizar ações residenciais automáticas, com o objetivo de controlar e automatizar equipamentos elétricos integrados a um sistema central de controle, podendo ser de utilizado local ou remotamente.
 
-Domótica vem da palavra “Domus”, significa casa, fazendo junção com a palavra “Robótica”, associado ao ato de realizar ações automáticas. Por isso, tem o objetivo de controlar e automatizar a função dos equipamentos elétricos de forma integrada a um certo sistema central, podendo ser controlado de forma local ou remota.
-Esse conceito vem da necessidade do homem de querer realizar o mínimo de esforço durante atividades corriqueiras. Quando se fala em modernidade fazemos associação com conforto, pois tudo que está ligado à tecnologia basicamente está relacionado à melhoria da vida humana.
+⠀⠀⠀⠀⠀⠀Esse conceito surgiu para definir a automação residencial de situações como a climatização, iluminação, segurança. A Domótica, assim como o avanço das tecnologias, surgem para que possamos realizar o mínimo de esforço durante as atividades corriqueiras do dia a dia, trazendo maior conforto. 
 
 
-Exemplos de Domótica:
-Controlar as luzes: é possível adequar o ambiente e programar fontes de iluminação, gerenciar o ambiente em várias situações, como tonalidade, cor e brilho
-Acompanhar em tempo real alarmes e sensores de segurança até mesmo longe de casa: detectar incêndios, fuga de água e de gás, quebra de vidros e invasões
-Controlar janelas com persianas elétricas
-Desligar todas as luzes da casa ou da empresa por controle
-Programar todo sistema audiovisual
-Ver em tempo real imagens das câmeras de segurança em seu circuito fechado, até mesmo longe de casa através do seu smartphone
-Controlar e programar a temperatura ambiente
-Programar consumos em horas vagas para diminuir gasto energético
-Interruptores por comando de voz
+![DOMOTICA](https://github.com/joananana/Projeto-Integrador-2/blob/main/Imagens/DOMOTICA.png "Domótica")
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀Alguns exemplos de utilização da domótica são:
+
+1. Controlar as luzes é possível adequar o ambiente e programar fontes de iluminação, como tonalidade, cor e brilho individualmente ou em grupo.
+
+2. Acompanhar em tempo real alarmes e sensores de segurança até mesmo longe de casa, detectar incêndios, fuga de água e de gás, quebra de vidros e invasões.
+
+3. Programar todo sistema audiovisual.
+
+4. Ver em tempo real imagens das câmeras de segurança, através do smartphone.
+
+5. Controlar e programar a temperatura ambiente.
+
+6. Programar consumos em horas vagas para diminuir gasto energético.
+
+

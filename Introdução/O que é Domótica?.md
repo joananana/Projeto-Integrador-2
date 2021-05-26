@@ -8,7 +8,7 @@
 
 ⠀⠀⠀⠀⠀⠀Domótica vem da palavra em francês *Domotique*, termo que junta as palavras *Domus*, que significa casa, com a palavra *Immotique*, que significa automático. Domótica então é associada ao ato de realizar ações residenciais automáticas, com o objetivo de controlar e automatizar equipamentos elétricos integrados a um sistema central de controle, geralmente conectado a internet para conseguir ser utilizado, além de local, remotamente.
 
-⠀⠀⠀⠀⠀⠀Esse conceito surgiu para definir a automação residencial de situações como a climatização, iluminação, segurança. A Domótica, assim como o avanço das tecnologias, surgem para que possamos realizar o mínimo de esforço durante as atividades corriqueiras do dia a dia, trazendo maior conforto. 
+⠀⠀⠀⠀⠀⠀Esse conceito surgiu para definir a automação residencial de situações como a climatização, iluminação, segurança. A Domótica, juntando o avanço de inúmeras tecnologias, tem como fim minimizar o esforço durante as atividades corriqueiras do dia a dia, trazendo maior conforto, estabilidade, segurança, tornando o proprietário consciente dos processos que acontecem na sua residência. 
 
 
 ![DOMOTICA](https://github.com/joananana/Projeto-Integrador-2/blob/main/Imagens/DOMOTICA.png "Domótica")

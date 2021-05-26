@@ -1,0 +1,3 @@
+1.  Adami, Anna. link: [https://www.infoescola.com/tecnologia/domotica/](Domótica). InfoEscola. Acessado em 26 de maio de 2021.
+2.  Mattede. Henrique. link: [https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/](Domótica: O que é e quais as vantagens). Acessado em 26 de maio de 2021.
+3.  Leiritic. link: [https://leiritic.pt/domotica/](Domótica). Acessado em 26 de maio de 2021.
